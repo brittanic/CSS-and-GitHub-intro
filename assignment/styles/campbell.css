@@ -28,8 +28,8 @@ figure { background: #2EE05B; }
 
 a:link { color: #343434; }
 a:visited { color: #0a0a0a; }
-a:hover { color: #151515; }
 a:focus { color: #818187; }
+a:hover { color: #151515; }
 a:active { color: #343434; }
 
 footer a:link { color: #343434; }
